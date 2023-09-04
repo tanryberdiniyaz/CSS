@@ -1,0 +1,18 @@
+/* * {
+  box-sizing: border-box;
+} */
+
+.box-1 {
+  background-color: blueviolet;
+  width: 500px;
+  border: 5px solid red;
+  padding: 20px;
+  margin: 30px;
+}
+.box-2 {
+  background-color: rgb(115, 255, 0);
+  width: 500px;
+  border: 5px solid rgb(14, 46, 255);
+  padding: 20px;
+  margin: 30px;
+}

@@ -1,0 +1,29 @@
+h1.baslik {
+  font-family: 'Caveat', cursive;
+  font-weight: 700;
+  text-align: center;
+  font-size: 3rem;
+  text-decoration: underline;
+}
+
+p.p-stil {
+  font-family: cursive;
+  font-size: 1.4rem;
+  text-align: left;
+  font-style: oblique;
+}
+
+span.span-el {
+  font-style: italic;
+  color: red;
+  font-weight: 900;
+  text-decoration: underline;
+  background-color: chartreuse;
+  text-decoration-color: blue;
+}
+
+ul li a {
+  text-align: left;
+  text-decoration: none;
+  color: green;
+}

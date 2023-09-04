@@ -1,0 +1,31 @@
+a {
+  color: green;
+}
+
+a:link {
+  color: red;
+}
+
+a:visited {
+  color: orange;
+}
+
+a:hover {
+  color: whitesmoke;
+  background-color: aqua;
+  font-size: 1.3rem;
+  text-decoration: none;
+}
+
+a:active {
+  color: blueviolet;
+}
+
+h1.baslik:hover {
+  background-color: aqua;
+  color: blueviolet;
+}
+
+ul li {
+  list-style-type: lower-alpha;
+}

@@ -1,0 +1,21 @@
+div.kutu1 {
+  background-color: aqua;
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+}
+
+div.kutu2 {
+  /* background-color: blueviolet; */
+  padding: 0rem 5rem 4rem 0rem;
+}
+
+em {
+  margin: 2rem;
+}
+
+b {
+  background-color: blue;
+  margin: 20px;
+}
+
+/* ? İnline elementler dikeyde margin ve padding almazlar sadece yatayda alırlar  */

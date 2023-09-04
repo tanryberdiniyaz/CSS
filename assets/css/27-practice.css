@@ -1,0 +1,37 @@
+nav.menu {
+  background-color: orange;
+  text-align: center;
+  margin-top: 2rem;
+}
+
+nav.menu ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+nav.menu ul li {
+  display: inline-block;
+}
+
+nav.menu ul li::after {
+  content: '|';
+  color: blue;
+}
+
+nav.menu ul li:last-child:after {
+  content: '▶️';
+  color: black;
+}
+
+nav.menu ul li:first-child:after {
+  content: '◀️';
+  color: black;
+}
+
+nav.menu a {
+  text-decoration: none;
+  display: inline-block;
+  padding: 10px 15px;
+  color: blue;
+}

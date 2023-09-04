@@ -1,0 +1,18 @@
+* {
+  color: red;
+}
+.highlight {
+  color: blue;
+}
+#p-1 {
+  color: aqua;
+}
+
+span {
+  color: blue;
+  font-size: 1.5rem;
+}
+
+span.span-el {
+  color: black;
+}

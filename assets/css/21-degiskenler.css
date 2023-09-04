@@ -1,0 +1,16 @@
+:root {
+  --color1: red;
+  --color2: purple;
+  --background-color: blue;
+  --ortala: center;
+}
+
+h1.baslik {
+  color: var(--color1);
+  text-align: var(--ortala);
+  background-color: var(--background-color);
+}
+
+.span-el {
+  color: var(--background-color);
+}

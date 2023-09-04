@@ -1,0 +1,14 @@
+.menu {
+  position: fixed;
+  background-color: aqua;
+  top: 10px;
+  left: 10px;
+  font-size: 3rem;
+  z-index: 99;
+}
+table.price-list thead {
+  background-color: greenyellow;
+  font-size: 2rem;
+  position: sticky;
+  top: 10px;
+}

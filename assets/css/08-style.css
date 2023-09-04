@@ -1,0 +1,11 @@
+/* Bu bir yorum satırıdır */
+nav.sav {
+  background-color: lightgray;
+  text-align: center;
+}
+
+div.active {
+  background-color: gray;
+  color: white;
+  padding: 1rem;
+}

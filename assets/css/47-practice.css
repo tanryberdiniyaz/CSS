@@ -1,0 +1,22 @@
+body {
+  font-family: 'Poppins', sans-serif;
+  margin: 0;
+  padding: 0;
+}
+h1.content {
+  margin: 0;
+  font-size: 20em;
+  text-align: center;
+  text-transform: uppercase;
+  font-weight: 800;
+  transform: translate(-50%, -50%);
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  background-image: url('../img/pexels-francesco-ungaro-3410956.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  -webkit-text-fill-color: transparent;
+  -webkit-background-clip: text;
+}

@@ -1,0 +1,38 @@
+nav.menu li {
+  background-color: red;
+}
+
+nav.menu > ul > li {
+  color: aqua;
+}
+
+nav.menu > ul > ul > li {
+  color: blue;
+  background-color: gray;
+}
+
+nav.menu > ul > ul > li:last-child {
+  color: white;
+  font-size: 30px;
+  font-weight: bolder;
+}
+
+nav.menu + p {
+  color: blue;
+}
+
+div.div-el + p {
+  color: brown;
+}
+
+div.div-el > p {
+  color: chartreuse;
+}
+
+nav.menu ~ p {
+  color: blueviolet;
+}
+
+nav.menu > ul > li:nth-child(2) ~ li {
+  color: white;
+}
